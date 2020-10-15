@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac02cd25-b366-4325-a32e-b539dfc953fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\tool\JetBrains\IntelliJ_IDEA\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1iraoNX48hLvqAswFkyHzwTqQG6" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../new_project/member-marketing-center" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2407211" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.apache.dubbo.demo.provider" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://127.0.0.1:20881/service/hello" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://127.0.0.1:20881/service/hello" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/users" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="99" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.apache.dubbo.demo.provider.Application" />
+      <module name="dubbo-eureka-provider-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.apache.dubbo.demo.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rest-api_1#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-api_1#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" index="2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Application" />
+        <item itemvalue="HTTP Request.rest-api_1#2" />
+        <item itemvalue="HTTP Request.rest-api_1#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac02cd25-b366-4325-a32e-b539dfc953fa" name="Default Changelist" comment="" />
+      <created>1602668347660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602668347660</updated>
+      <workItem from="1602668348825" duration="5301000" />
+      <workItem from="1602723704879" duration="14703000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="619" height="505" key="DebuggerActiveHint" timestamp="1602735019913">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state width="619" height="505" key="DebuggerActiveHint/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602735019913" />
+    <state x="1866" y="184" key="FileChooserDialogImpl" timestamp="1602753095631">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1866" y="184" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602753095631" />
+    <state width="1325" height="235" key="GridCell.Tab.0.bottom" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124417" />
+    <state width="1325" height="235" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state width="1325" height="235" key="GridCell.Tab.0.center" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124417" />
+    <state width="1325" height="235" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state width="1325" height="235" key="GridCell.Tab.0.left" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124417" />
+    <state width="1325" height="235" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state width="1325" height="235" key="GridCell.Tab.0.right" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124417" />
+    <state width="1325" height="235" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state width="1325" height="235" key="GridCell.Tab.1.bottom" timestamp="1602749550115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124418" />
+    <state width="1325" height="235" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602749550115" />
+    <state width="1325" height="235" key="GridCell.Tab.1.center" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124418" />
+    <state width="1325" height="235" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state width="1325" height="235" key="GridCell.Tab.1.left" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124417" />
+    <state width="1325" height="235" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state width="1325" height="235" key="GridCell.Tab.1.right" timestamp="1602749550114">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1399" height="291" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602742124418" />
+    <state width="1325" height="235" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602749550114" />
+    <state x="1566" y="4" key="SettingsEditor" timestamp="1602670288247">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1566" y="4" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1602670288247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://E:/java/maven_rep/org/jboss/resteasy/resteasy-jaxrs/3.0.19.Final/resteasy-jaxrs-3.0.19.Final.jar!/org/jboss/resteasy/plugins/server/servlet/HttpServletDispatcher.class</url>
+          <line>48</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
